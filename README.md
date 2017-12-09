@@ -1,7 +1,7 @@
-##  0x01 This is a web scanner for CTF.
+## This is a web scanner for CTF.
 
 
-##  0x02 Introduction
+## Introduction
 
 
 `python scanner.py -h`
